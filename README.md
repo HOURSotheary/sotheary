@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Hi There👋, My name is <b>HOUR Sotheary </b>. I'm 29 years old and I've 5+ years experiences as developer and achieve various web application projects using <b> PHP, Vuejs</b>(3+years) and as <b>Web Designer</b>(1year).
 
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭.
+I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira)
 
 ### Education
 
