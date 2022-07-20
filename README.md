@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/HOURSotheary"><img width="120" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+<a target="_blank" href="https://github.com/HOURSotheary"><img width="120" align="right" src="https://github.com/HOURSotheary/sotheary/blob/main/profile.jpg"></a>
 
 
 ## CURRICULUM VITAE
