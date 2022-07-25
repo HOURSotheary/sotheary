@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_99338088-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85599338088)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_ChomChoa_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://www.google.com/maps/@11.527880,%20104.830181)
 
-Hi There👋, My name is <b>HOUR Sotheary </b>. I'm 29 years old and I've 5+ years experiences as developer and achieve various web application projects using <b> PHP, Vuejs</b>(3+years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>HOUR Sotheary </b>. I'm 29 years old and I've 6+ years experiences as developer and achieve various web application projects using <b> PHP, Vuejs</b>(4+years) and as <b>Web Designer</b>(1year).
 
 I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira)
 
@@ -45,7 +45,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 ```tsx
 {
   Frontend: ['Vue Js','JSON', 'Ajax', 'Javascript', 'Jquery'],
-  frontendUI: ['Html5', 'Antd Design', 'Bootstrap', 'CSS'],
+  FrontendUI: ['Html5', 'Antd Design', 'Bootstrap', 'CSS'],
   Backend: ['Laravel', 'raw php', 'cakephp', 'codeigniter'],
   Database: ['MySql', 'Redis', 'PSQL']
   toolsBuildLibrary: ['Npm', 'yarn'],
@@ -61,17 +61,30 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b> <a target="_blank" href="https://infinity-tech.cc/en/" target="_blank" > Infinity Information & Apps Dev Co.,Ltd.
   </a></b> <br>
-  <b>Full Stack Engineering</b> - March 2021 - August 2022 (1+ years)
+  <b>Senior Full Stack Engineering</b> - March 2021 - August 2022 (1+ years)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for this company almost 2years to build various projects such as <b>Music, Umpay and Orkun project</b>. During my working here I handle on develop API for admin dashboard and intergrate API for admin. I also lead on one Orkun project (all service in one app) 
 
   - <b>Public Project Portfolio</b>
     - <a target="_blank" href="https://admin-dev.umpay.io"> https://admin-dev.umpay.io </a> - Using Vuejs CLI and laravel for build API
     Email: theary030.infinity@gmail.com , Password: 123456
+    
+- <b> <a target="_blank" href="http://holiday-palace-casino-resort.sihanoukville-hotels.com/en/" target="_blank" >  Holiday Palace Casino (Sihanouk Ville)
+  </a></b> <br> 
+ <b>PHP Developer</b> - March 2019 - Jan 2021 (2 years)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Casino Industry almost 2years to build many projects related to gaming online</b>.
+    
+- <b> <a target="_blank" href="http://www.haricrm.com/" target="_blank" >  HARi - CRM & DATA Co.,ltd
+  </a></b> <br> 
+ <b>PHP Developer</b> - Oct 2017 - Jan 2019 (1+ years)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for HARi - CRM & DATA Co.,ltd almost 2years to build projects syncronized from CRM to DB and database to CRM (banckend only)</b>.
 
 - <b> <a target="_blank" href="https://www.asecro.com/" target="_blank" > Asecro Co.,Ltd.
   </a></b> <br>
-  <b>Web Developer</b> - August 2015 - Jan 2021 (4+ years)
+
+  <b>Web Developer</b> - August 2015 - Sept 2017 (2+ years)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Asecro co.,ltd  almost 5years to build various projects such as <b>ecommerce and web app and application</b>.
 
