@@ -48,7 +48,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   FrontendUI: ['Html5', 'Antd Design', 'Bootstrap', 'CSS'],
   Backend: ['Laravel', 'raw php', 'cakephp', 'codeigniter'],
   Database: ['MySql', 'Redis', 'PSQL']
-  CRM: []
+  CRM
   toolsBuildLibrary: ['Npm', 'yarn'],
   commonLibrary: ['Axios', 'hook useRequest'],
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
