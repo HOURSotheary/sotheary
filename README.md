@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_99338088-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85599338088)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_ChomChoa_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://www.google.com/maps/@11.527880,%20104.830181)
 
-Hi There👋, My name is <b>HOUR Sotheary </b>. I'm 29 years old and I've 6+ years experiences as developer and achieve various web application projects using <b> PHP, Vuejs</b>(4+years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>HOUR Sotheary </b>. I'm 30 years old and I've 7+ years experiences as developer and achieve various web application projects using <b> PHP, Vuejs</b>(4+years) and as <b>Web Designer</b>(1year).
 
 I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira)
 
