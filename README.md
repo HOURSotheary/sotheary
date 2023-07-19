@@ -62,7 +62,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b> <a target="_blank" href="https://infinity-tech.cc/en/" target="_blank" > Infinity Information & Apps Dev Co.,Ltd.
   </a></b> <br>
-  <b>Senior Full Stack Engineering</b> - March 2021 - August 2023 (1+ years)
+  <b>Senior Full Stack Engineering</b> - March 2021 - August 2023 (2+ years)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for this company almost 2years to build various projects such as <b>Music, Umpay and Orkun project</b>. During my working here I handle on develop API for admin dashboard and intergrate API for admin. I also lead on one Orkun project (all service in one app) 
 
