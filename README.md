@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋
 
 **HOURSotheary/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a target="_blank" href="https://github.com/HOURSotheary"><img width="120" align="right" src="https://github.com/HOURSotheary/sotheary/blob/main/profile.jpg"></a>
 
